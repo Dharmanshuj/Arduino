@@ -1,5 +1,5 @@
 First You need the components : Arduino Uno, IR sensor, LED light, Arduino Cable wire, Connecting wires
-<img src = "![WhatsApp Image 2024-07-01 at 16 44 37_09a6e7d5](https://github.com/Dharmanshuj/Arduino/assets/124305189/2c0b9f0c-4bea-46c8-a448-6a1deb4a7d11)" width="500" height="300">
+![WhatsApp Image 2024-07-01 at 16 44 37_09a6e7d5](https://github.com/Dharmanshuj/Arduino/assets/124305189/2c0b9f0c-4bea-46c8-a448-6a1deb4a7d11)
 
 Connect the Arduino Board with your laptop or PC using Arduino Cable
 ![WhatsApp Image 2024-07-01 at 16 34 07_3853fac0](https://github.com/Dharmanshuj/Arduino/assets/124305189/ea67328f-48bb-40af-ad15-4a8ce85e8bf1)
